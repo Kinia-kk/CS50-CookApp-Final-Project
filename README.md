@@ -2,7 +2,7 @@
 Cook App is an app which helps you plan your meals ahead. 
 Android app made using Python kivy and kivymd framework.
 ### Made by Kinga Tkocz as a final project for CS50 Computer Science course
-#### Video description:
+#### Video description: https://youtu.be/zAbmxHon9aI
 
 
 ## There are two main features
