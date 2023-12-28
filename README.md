@@ -1,6 +1,7 @@
 # CS50-CookApp-Final-Project
-Cook App is an app which helps you plan your meals ahead. 
-Android app made using Python kivy and kivymd framework.
+Cook App is an app which allow you to store all your recipes in one place but also to automate your shopping by creating
+shopping lists based on ingredients in your recipe. 
+It is an Android app made using Python, sqlite3 database, kivy and kivymd framework.
 ### Made by Kinga Tkocz as a final project for CS50 Computer Science course
 #### Video description: https://youtu.be/zAbmxHon9aI
 
@@ -26,6 +27,9 @@ name they will show quantity separated by "," instead of creating another entry.
 option to automatically add ingredients which you need for particular recipe via add buttons on
 recipe tile or in the right upper corner when you click on specific recipe tile.
 
+## Things that I enjoyed the most
+Python has a lot of build-in functions which makes your work easier and quicker and since I used to write only in C family
+programming languages it was a big surprise. Also, kivy has many beginners’ friendly things that are well described in its documentation.
 
 ## Issues I faced during development
 It was my first time I have been using kivy framework so it showed me how important is good documentation for programming tools
@@ -33,3 +37,8 @@ since I had to read it a lot. Also, it was my first own project in which I used 
 for me was to actually build my app with buildozer since I had to use VirtualBox with Linux, download a lot of packages with needed 
 tools and to solve problems with file picker and hiding input field but I finally did it and I am proud of my work. I hope you will
 find my app useful.
+
+## A room for improvement
+I was able to implement almost everything I wanted but during development I come with idea of sharing recipes with others 
+so, you will be able to send your favourite recipe to our friends but I haven't implemented that functionality yet so this is
+something that could be improved in the future.
